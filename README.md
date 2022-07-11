@@ -5,7 +5,7 @@ tml lang="en">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></BASICS.HTML</title>
+    <title>BASICS.HTML</title>
 
 
     <h1>
@@ -13,7 +13,7 @@ tml lang="en">
     Deep Dish Brownies.jpg Recipe by: Biz McMahon</h1>
 
 
-<p></p>Related Recipes Brownies Chewiest Can't tell They're low-fat Brownies Bodacious Brownies Katrina's Best-Ever Chocolate Easy Fudge Brownies Prep TIME 60 mins Serving 9 Ingredients: 3/4 cup butter, melted 1 1/2 cups white sugar, 1 1/2 teaspoons vanilla extract, 3 eggs, 3/4 cup all purpose flour, 1/2 cup unsweetened cocoa powder ,1/2 teaspoon baking powder,1/2 teaspoon salt Directions Preheat oven to 350dedgrees F(175 degrees C) and Grease an 8 inch square pan
+<p>Related Recipes Brownies Chewiest Can't tell They're low-fat Brownies Bodacious Brownies Katrina's Best-Ever Chocolate Easy Fudge Brownies Prep TIME 60 mins Serving 9 Ingredients: 3/4 cup butter, melted 1 1/2 cups white sugar, 1 1/2 teaspoons vanilla extract, 3 eggs, 3/4 cup all purpose flour, 1/2 cup unsweetened cocoa powder ,1/2 teaspoon baking powder,1/2 teaspoon salt Directions Preheat oven to 350dedgrees F(175 degrees C) and Grease an 8 inch square pan
 </p>
 
 <p>Gradually blend into the egg mixture.Spread the batter into the prepared pan.Bake in preheated oven for 40 to 45 minutes ,or until brownies begin to pull away from the sides of the pan. Let brownies cool,then cut into squares
